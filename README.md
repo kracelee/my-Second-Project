@@ -49,5 +49,5 @@
     stagin area의 파일을 working
     directory로 가져옴
 
-![Git Sheat Sheet](asset/cheatSheet.png)
+![Git Sheat Sheet](asset/cheatSheet.gif)
 
